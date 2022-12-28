@@ -3,5 +3,22 @@
     "express": "^4.18.2",
     "moment": "^2.29.4",
     "ws": "^8.11.0"
-  }
+  },
+  "name": "chat-expt",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirubel624/Chat-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirubel624/Chat-server/issues"
+  },
+  "homepage": "https://github.com/Kirubel624/Chat-server#readme",
+  "description": ""
 }
